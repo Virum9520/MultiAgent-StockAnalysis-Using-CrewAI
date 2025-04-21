@@ -1,0 +1,13 @@
+# requirements.txt
+tiktoken
+crewai
+openai
+langchain
+pinecone-client
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
