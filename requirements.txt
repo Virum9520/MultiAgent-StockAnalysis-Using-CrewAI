@@ -11,3 +11,4 @@ scikit-learn
 matplotlib
 plotly
 streamlit
+langchain_community
