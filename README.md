@@ -1,6 +1,6 @@
 # 📈 Multi-Agent AI Investment Consultant (CrewAI Agents)
 
-An intelligent investment advisor that uses autonomous agents to analyze stock performance, research company fundamentals and news, and generate personalized investment reports — all built with CrewAI and OpenAI GPT-4o-mini.
+An intelligent investment advisor that uses autonomous agents to analyze stock performance, research company fundamentals and news, and generate personalized investment reports — all built with CrewAI and OpenAI GPT-4o-mini. link - https://multiagent-stockanalysis-using-crewai.onrender.com
 
 ## 🚀 Features
 - 📊 Real-time 6-month stock performance comparison using yfinance
