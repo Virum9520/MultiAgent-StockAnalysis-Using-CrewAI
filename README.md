@@ -16,6 +16,9 @@ An intelligent investment advisor that uses autonomous agents to analyze stock p
 - yFinance, Plotly
 - Streamlit for frontend
 
+### Multi-Agent Workflow
+![Agent Workflow](/dashboard1.png)
+
 ### Stock Comparison
 ![Stock Comparison](images/img4.png)
 
@@ -25,8 +28,6 @@ An intelligent investment advisor that uses autonomous agents to analyze stock p
 ### Investment Suggestions
 ![Stock Comparison](images/img3.png)
 
-### Multi-Agent Workflow
-![Agent Workflow](images/dashboard.png)
 
 
 
